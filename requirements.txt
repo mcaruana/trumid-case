@@ -8,6 +8,3 @@ tqdm
 #viz library
 matplotlib
 seaborn
-
-#jupyter extensions
-
