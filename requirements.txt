@@ -1,0 +1,13 @@
+#jupyter notebook
+notebook
+#pandas
+pandas
+#biquery
+pandas_gbq
+tqdm
+#viz library
+matplotlib
+seaborn
+
+#jupyter extensions
+
