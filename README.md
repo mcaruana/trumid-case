@@ -18,9 +18,7 @@ you to walk through any queries, code, or formulas behind your numbers.
 
 ## Question 1: Product Porfolio
 
-Assess the profitability of each product category. Are there significant differences between
-them? If so, what might TheLook consider changing about its product mix to increase margins
-overall?
+z
 
 ## Question 2: Website Traffice
 
